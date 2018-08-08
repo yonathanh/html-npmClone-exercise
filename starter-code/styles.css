@@ -1,0 +1,142 @@
+
+/* style.css */
+
+body{
+  background-color: white;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 4px;
+  height: 20px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+
+  padding-right: 0px;
+  padding-left: 40px;
+  margin-top: -5px;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.top-left{
+
+  float: left;
+}
+
+.section-top{
+  background-image: url("./images/collaboration.svg");
+  background-size: center;
+  background-repeat: no-repeat;
+
+  text-align: center;
+  background: rgb(31, 82, 111);
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: rgba(255,255,255,0.8);
+}
+
+.Npm-logo {
+
+  float: left;
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  margin: 0 2px;
+
+}
+
+.search-bar {
+  display: inline-block;
+  float: right;
+
+  padding-right: 0px;
+  padding-left: 40px;
+  margin-top: -5px;
+}
+.bear-logo {
+
+  float: right;
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
+
+.section1 {
+  background-image: url("./images/collaboration.svg");
+  background-size: center;
+  background-repeat: no-repeat;
+
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 20px;
+  background-color: rgb(7, 37, 77);
+  color: rgba(255,255,255,0.8);
+}
+
+.section2 {
+  background-image: url("./images/collaboration.svg");
+  background-size: right;
+  background-repeat: no-repeat;
+  
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 100px;
+  background-color: rgb(68, 126, 202);
+  color: rgba(255,255,255,0.8);
+}
+.section3 {
+ text-align: center;
+
+}
+  .box1{
+
+  
+    float: left;
+    height: 390px;
+    padding-top: 10px;
+    width: 20%;
+    
+  }
+  .box2{
+  
+    float: left;
+    height: 590px;
+    padding-top: 10px;
+    margin: 0 1%;
+    width: 48%;
+  
+  }
+  .box3{
+    margin: 0 5%;
+    /*
+    float: left;
+    height: 390px;
+    padding-top: 10px;
+    width: 30%;
+    */
+  }
+
+  /*
+  .col {
+    float: left;
+  }
+  
+  .col-3 {
+    width: 30%;
+  }
+  
+  .col-middle {
+    margin: 0 5%;
+  }
+  */
+  
